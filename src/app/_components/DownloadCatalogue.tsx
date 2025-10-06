@@ -8,7 +8,7 @@ export default function DownloadCatalogue() {
       size={"lg"}
       asChild
     >
-      <a href="assets/catalogue.pdf" download>
+      <a href="assets/Clean Touch Booklet.pdf" download>
         <Download className="mr-2 h-4 w-4" />
         Download Catalogue
       </a>
